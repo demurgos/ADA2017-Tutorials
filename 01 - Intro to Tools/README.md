@@ -93,7 +93,7 @@ Credits to [saloot](https://github.com/saloot) and [Michele Catasta](https://git
 
 Agree to work on groups of 3 people. Take the first 2 homework as an opportunity to get to know your team: you can change before the third homework, after it the groups are made (also for the project!). 3 persons is mandatory, only motivated exceptions will be accepted. Use Mattermost or other means to find a team if in need!
 
-Access your first (OPTIONAL and UNGRADED) homework [here](https://github.com/epfl-ada/Homeworks/tree/master/00%20-%20Optional%20homework). Clone the repo locally and take the opportunity to freshen-up your Python skills, or to acquire them.
+Access your first (OPTIONAL and UNGRADED) homework [here](https://github.com/epfl-ada/ADA2017-Homeworks/tree/master/00%20-%20Optional%20homework). Clone the repo locally and take the opportunity to freshen-up your Python skills, or to acquire them.
 
 Remember to create your group repository BY FRIDAY 29th Sept., then register it [here](https://goo.gl/DEP7xj). This repo will be used to crawl your future homework and project (not this one!). Every member of the group should register with his/her email and the group repository. 
 
