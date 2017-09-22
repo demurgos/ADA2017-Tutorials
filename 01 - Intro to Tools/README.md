@@ -11,7 +11,7 @@ This tutorial should see you up and running with your python environment, plus g
 * clone the tutorials repo in a local folder
 
 ```
-git clone https://github.com/epfl-ada/Tutorials.git
+git clone https://github.com/epfl-ada/ADA2017-Tutorials.git
 ```
 
 * or pull new changes if you already have it (from the tutorials local folder)
